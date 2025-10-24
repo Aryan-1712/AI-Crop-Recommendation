@@ -49,13 +49,15 @@ When you run the program, you’ll see a clean interface like this:
 
 ⚙️ How to Run
 
-Clone the repository:
-      git clone https://github.com/Aryan-1712/AI-Crop-Recommendation.git
-      cd "AI-Crop-Recommendation"
-Install dependencies:
-      pip install -r requirements.txt
-Run the program:
-      python main.py
+      Clone the repository:
+            git clone https://github.com/Aryan-1712/AI-Crop-Recommendation.git
+            cd "AI-Crop-Recommendation"
+      
+      Install dependencies:
+            pip install -r requirements.txt
+      
+      Run the program:
+            python main.py
 
 📊 Dataset
 
