@@ -21,10 +21,11 @@ It uses a machine learning model trained on agricultural data to make accurate p
 ✅ Data visualization for better understanding of crop distribution
 
 🧠 Tech Stack
-Category	Technologies
-Programming Language	Python
-Libraries Used	numpy, pandas, matplotlib, seaborn, scikit-learn, tkinter, pickle
+
+Programming Language: Python
+Libraries Used      : numpy, pandas, matplotlib, seaborn, scikit-learn, tkinter, pickle
 Model	Random Forest Classifier (trained on crop dataset)
+
 🧩 Working
 
 Input Parameters — User enters soil and climate data
