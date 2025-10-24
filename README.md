@@ -8,10 +8,15 @@ It uses a machine learning model trained on agricultural data to make accurate p
 🚀 Features
 
 ✅ GUI-based interface built using Tkinter
+
 ✅ Predicts best-suited crop instantly
+
 ✅ Clear visualization using Matplotlib and Seaborn
+
 ✅ Easy to use — enter parameters → click Predict → get results
+
 ✅ “Clear All” button to reset inputs
+
 ✅ Data visualization for better understanding of crop distribution
 
 🧠 Tech Stack
