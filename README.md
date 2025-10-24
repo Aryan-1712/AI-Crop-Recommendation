@@ -36,6 +36,7 @@ Below is an example of how the dataset’s crop distribution looks:
 🖥️ GUI Preview
 
 When you run the program, you’ll see a clean interface like this:
+
 +---------------------------------------------------+
 | AI CROP RECOMMENDATION SYSTEM                     |
 |---------------------------------------------------|
@@ -76,5 +77,7 @@ Build web dashboard using Streamlit or Flask
 
 Aryan Sharma
 📍 B.Tech CSE (Data Science) @ SRM Delhi NCR
+
 💡 Passionate about AI, Data Science & Innovation
+
 🔗 GitHub Profile : https://github.com/Aryan-1712
